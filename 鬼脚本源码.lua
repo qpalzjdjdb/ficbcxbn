@@ -1,10 +1,3 @@
---[[
-缝合小鬼
-说要破解龙脚本 破解皮脚本
-笑死我了
-缝合小鬼直接去泛滥源码吧
-by lishichuan
---]]
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 local Window = OrionLib:MakeWindow({Name = "鬼脚本", HidePremium = false, IntroText = "鬼脚本"})
 
